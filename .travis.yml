@@ -9,6 +9,15 @@ android:
     - android-25
     - extra-android-m2repository
     - extra-android-support
+    - extra
+
+  licenses:
+    - 'android-sdk-license'
+    - 'android-sdk-preview-license'
+    - 'intel-android-extra-license'
+
+before_install:
+  - chmod +x gradlew
 
 notifications:
 email: false
