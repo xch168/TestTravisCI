@@ -17,6 +17,7 @@ android:
     - 'android-extra-license-.+'
     - 'intel-android-extra-license-.+'
     - 'extra-android-support'
+    - 'extra-android-support-constraint'
 
 before_install:
   - chmod +x gradlew
