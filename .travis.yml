@@ -12,8 +12,8 @@ android:
     - extra
 
   licenses:
-    - 'android-sdk-license'
-    - 'android-sdk-preview-license'
+    - 'android-sdk-license-.+'
+    - 'android-sdk-preview-license-.+'
     - 'intel-android-extra-license'
 
 before_install:
